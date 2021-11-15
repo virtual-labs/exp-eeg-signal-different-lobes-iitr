@@ -1,1 +1,1 @@
-### Aim of the experiment
+#### To study various Electroencephalogram (EEG) signals for different lobes.
