@@ -1,39 +1,60 @@
 {
   "version": 2.0,
-  "questions": [
-    {
-      "question": "This is a Sample Question 1?",
-      "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
-      },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "a",
-      "difficulty": "beginner"
-    },
-    {
-      "question": "This is a Sample Question 2?",
-      "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
-      },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "c",
-      "difficulty": "beginner"
-    }
+  "questions":[
+		{
+		"question":"According to the international 10/20 system to measure EEG, even number denotes which side of the brain:",
+		"answers":{
+		"a":"Left",
+		"b":"Top",
+		"c":"Bottom",
+		"d":"Right"
+		},
+		"correctAnswer":"d",
+		"difficulty": "beginner"
+		},
+		{
+		"question":"According to the international 10/20 system to measure EEG, odd number denotes which side of the brain:",
+		"answers":{
+		"a":"Left",
+		"b":"Top",
+		"c":"Bottom",
+		"d":"Right"
+		},
+		"correctAnswer":"a",
+		"difficulty": "beginner"
+		},
+		{
+		"question":"Letter F in the EEG electrode placement system denotes:",
+		"answers":{
+		"a":"Front",
+		"b":"Face",
+		"c":"Frontal Lobe",
+		"d":"Fast"
+		},
+		"correctAnswer":"c",
+		"difficulty": "beginner"
+		},
+		{
+		"question":"The letter T in the EEG electrode placement system denotes:",
+		"answers":{
+		"a":"Temporal Lobe",
+		"b":"Temper Lobe",
+		"c":"Trace",
+		"d":"Timpanic"
+		},
+		"correctAnswer":"c",
+		"difficulty": "beginner"
+		},
+		{
+		"question":"When a person moves his arms and legs , the EEG is generated from_______:",
+		"answers":{
+		"a":"Temporal Lobe",
+		"b":"Parietal lobe",
+		"c":"Occipital Lobe",
+		"d":"Frontal Lobe "
+		},
+		"correctAnswer":"d",
+		"difficulty": "beginner"
+		}
   ]
 }
