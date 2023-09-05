@@ -1,0 +1,58 @@
+{
+  "version": 2.0,
+  "questions": [
+	{
+	"question":"We can diagnose Epilepsy by:",
+	"answers":{
+	"a":"ECG",
+	"b":"EEG",
+	"c":"EMG",
+	"d":"None of these"
+	},
+	"correctAnswer":"b",
+	"difficulty": "intermediate"
+	},
+	{
+	"question":"Electrodes to measure EEG are placed on_____:",
+	"answers":{
+	"a":"Scalp",
+	"b":"Ear",
+	"c":"Forehead",
+	"d":"Cheeks"
+	},
+	"correctAnswer":"a"
+	},
+	{
+	"question":"Indications for clinical EEG assessment of psychiatric patients include, all EXCEPT:",
+	"answers":{
+	"a":"Rule out specific neurological disorders",
+	"b":"History of head trauma",
+	"c":"Differentiating schizophrenia",
+	"d":"First presentation of psychosis"
+	},
+	"correctAnswer":"c",
+	"difficulty": "intermediate"
+	},
+	{
+	"question":"Diffuse, bilaterally synchronous 3Hz wave and spike discharges are typical EEG findings of:",
+	"answers":{
+	"a":"Absence seizures",
+	"b":"Infantile spasm",
+	"c":"Myoclonic seizures",
+	"d":"Complex partial seizures"
+	},
+	"correctAnswer":"a",
+	"difficulty": "intermediate"
+	},
+	{
+	"question":"Continuous generalized slowing consists of polymorphic delta activity that is continuous or near-continuous (>80% of the record) and reactive is suggestive of:",
+	"answers":{
+	"a":"Seizure disorder",
+	"b":"Diffuse encephalopathy",
+	"c":"Sleep disorders",
+	"d":"Increased intracranial pressure"
+	},
+	"correctAnswer":"b"
+	}
+  ]
+}
