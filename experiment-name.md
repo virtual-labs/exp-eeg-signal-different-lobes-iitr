@@ -1,0 +1,1 @@
+## Monitoring of Electroencephalogram (EEG) signal for different lobes.
